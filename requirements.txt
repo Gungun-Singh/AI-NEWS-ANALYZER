@@ -1,0 +1,7 @@
+camel-ai
+streamlit
+python-dotenv
+requests
+groq
+newspaper4k
+lxml_html_clean
