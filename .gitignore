@@ -1,0 +1,30 @@
+# --- ENV FILES ---
+api.env
+.env
+*.env
+
+# --- PYTHON VENV ---
+venv/
+venv*/ 
+.env/
+
+# --- PYTHON CACHE ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- STREAMLIT CACHE ---
+.streamlit/
+
+# --- OS / EDITOR FILES ---
+.DS_Store
+Thumbs.db
+
+# --- LOGS ---
+*.log
+logs/
+
+# --- IDE ---
+.vscode/
+.idea/
